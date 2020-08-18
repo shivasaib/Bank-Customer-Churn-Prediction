@@ -1,5 +1,6 @@
 # Banking-Customer-Churn-Prediction
-Predicting customer churn of bank using Machine Learning models
+
+Build a machine learning model to predict customer churn of a bank.
 
 
 ## Contents of Notebook:
@@ -12,4 +13,4 @@ Predicting customer churn of bank using Machine Learning models
 7.Model Training\
 8.Model Performance\
 9.Feature Evaluation\
-10. Conclusion
+10.Conclusion
