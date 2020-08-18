@@ -2,7 +2,7 @@
 Predicting customer churn of bank using Machine Learning models
 
 
-## Contents of Notebook:\
+## Contents of Notebook:
 1.Import Libraries\
 2.Loading dataset\
 3.Feature Selection\
